@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.733c790c.js",
-    "index.html": "/index.html",
-    "main.733c790c.js.map": "/static/js/main.733c790c.js.map"
+    "main.js": "/web/%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02/static/js/main.733c790c.js",
+    "index.html": "/web/%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02/index.html",
+    "main.733c790c.js.map": "/web/%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A02/static/js/main.733c790c.js.map"
   },
   "entrypoints": [
     "static/js/main.733c790c.js"
